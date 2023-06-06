@@ -1,7 +1,7 @@
 ## Olá, sou a Helen e bem-vindo(a) ao meu Github!
 
 - Cursando Ciências da Computação na Universidade Paulista - Unip
-- Técnico em Análise e Desenvolvimento de Sistemas - Etec Professor Basilides de Godoy
+- Técnica em Análise e Desenvolvimento de Sistemas - Etec Professor Basilides de Godoy
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=helen-silv4&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=helen-silv4&layout=compact&theme=radical)](https://github.com/helen-silv4/github-readme-stats)
