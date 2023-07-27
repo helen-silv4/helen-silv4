@@ -3,10 +3,7 @@
 - Cursando Ciências da Computação na Universidade Paulista - Unip
 - Técnica em Análise e Desenvolvimento de Sistemas - Etec Professor Basilides de Godoy
 
-<div>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=helen-silv4&show_icons=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=helen-silv4&layout=compact&theme=radical"/>
-</div>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=helen-silv4&show_icons=true&theme=radical"/> <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=helen-silv4&layout=compact&theme=radical"/>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
