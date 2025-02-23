@@ -34,6 +34,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=idea,visualstudio,vscode)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
 ##
 
 ### :round_pushpin: Social Media
