@@ -18,7 +18,7 @@
 
 <div>
   <a href="[https://github.com/helen-silv4](https://github.com/helen-silv4)"> 
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=helen-silv4&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=helen-silv4&show_icons=true&theme=tokyonight&include_all_commits=true"/>
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=helen-silv4&layout=compact&theme=tokyonight"/>
 </div>
 
