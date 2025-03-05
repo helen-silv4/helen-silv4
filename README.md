@@ -40,6 +40,6 @@
 ### :round_pushpin: Social Media
 <div> 
   <a href="https://www.linkedin.com/in/helen-silva-4a3035220/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-1c56b2?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://discord.gg/aX2v8n5Hwx" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:helendev07@gmail.com"><img src="https://img.shields.io/badge/-Gmail-d31b1b?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://discord.gg/Hg9wHdsyPD" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href = "https://www.youtube.com/@helen_silv4"><img src="https://img.shields.io/badge/YouTube-d31b1b?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 </div>
