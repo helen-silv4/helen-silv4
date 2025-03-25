@@ -6,6 +6,8 @@
   Helen Silva <img width="45" alt="about" src="https://cdn-icons-png.flaticon.com/512/924/924915.png">  
 </h2> 
 
+<img align="right" src="img.png" width="120">
+
 - Cursando Ciência da Computação na Universidade Paulista - Unip
 - Técnica em Análise e Desenvolvimento de Sistemas - Etec Professor Basilides de Godoy
 - Saiba mais em: <a href="https://helen-silv4.github.io/portfolio/" target="_blank">Portfólio pessoal</a>
