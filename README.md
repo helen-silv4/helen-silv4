@@ -3,7 +3,7 @@
 </h1>
 
 <h2 align="left">
-  Helen Silva
+  📍 Helen Silva
 </h2> 
 
 <img align="right" src="img.png" width="165">
@@ -41,7 +41,7 @@
 [![My Skills](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
 ##
 
-### :round_pushpin: Social Media
+### 🚀 Social Media
 <div> 
   <a href="https://www.linkedin.com/in/helen-silva-4a3035220/" target="_blank"><img src="https://img.shields.io/badge/-Linkedin-1c56b2?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://discord.gg/Hg9wHdsyPD" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
