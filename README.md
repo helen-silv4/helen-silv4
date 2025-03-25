@@ -3,7 +3,7 @@
 </h1>
 
 <h2 align="left">
-  Helen Silva <img width="45" alt="about" src="https://cdn-icons-png.flaticon.com/512/924/924915.png">  
+  Helen Silva
 </h2> 
 
 <img align="right" src="img.png" width="120">
