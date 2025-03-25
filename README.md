@@ -6,13 +6,15 @@
   Helen Silva
 </h2> 
 
-<img align="right" src="img.png" width="120">
+<img align="right" src="img.png" width="165">
 
 - Cursando Ciência da Computação na Universidade Paulista - Unip
 - Técnica em Análise e Desenvolvimento de Sistemas - Etec Professor Basilides de Godoy
 - Saiba mais em: <a href="https://helen-silv4.github.io/portfolio/" target="_blank">Portfólio pessoal</a>
 
 > "May the Force be with you!" — Yoda
+
+![Visitantes](https://komarev.com/ghpvc/?username=helen-silv4&color=blue)
 
 ##
 
