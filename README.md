@@ -29,16 +29,14 @@
 ##
 
 ### :books: Languages and Tools
-[![My Skills](https://skillicons.dev/icons?i=html,css,js)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=py)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=cs)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=angular,html,css,js,mysql)](https://skillicons.dev)
 
-
-[![My Skills](https://skillicons.dev/icons?i=idea,visualstudio,vscode)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,github)](https://skillicons.dev) <img src="https://avatars.githubusercontent.com/u/365230?s=400&v=4" height="45">
+[![My Skills](https://skillicons.dev/icons?i=idea,visualstudio,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=obsidian)](https://skillicons.dev) 
+
 ##
 
 ### 🚀 Social Media
